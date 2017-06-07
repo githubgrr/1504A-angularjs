@@ -1,0 +1,8 @@
+练习git2
+	1.git init                                   查看状态
+	2.git config --global user.name ""           设置用户名和密码
+	  git config --global user.email ""
+	3.git add .                                  添加文件到版本控制序列
+	4.git commit -m"注释说明"                    提交文件到本地仓库
+	5.git remote add origin "仓库地址"           本地仓库关联远端
+	6.git push origin master                     推送文件到远端
